@@ -46,7 +46,7 @@ Sigue estos sencillos pasos para tener una copia local del proyecto y ejecutarlo
     ```
 3.  Compila el código fuente con un compilador de C++:
     ```bash
-    g++ -o blackjack MAIN3.cpp
+    g++ -o blackjack Main.cpp
     ```
 
 ### Cómo jugar
