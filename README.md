@@ -38,11 +38,11 @@ Sigue estos sencillos pasos para tener una copia local del proyecto y ejecutarlo
 
 1.  Clona el repositorio en tu máquina local:
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
+    git clone [https://github.com/AlbertoCano4/Blackjack-game](https://github.com/AlbertoCano4/Blackjack-game)
     ```
 2.  Navega hasta el directorio del proyecto:
     ```bash
-    cd nombre-del-repositorio
+    cd Blackjack-game
     ```
 3.  Compila el código fuente con un compilador de C++:
     ```bash
