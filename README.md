@@ -4,7 +4,7 @@ Este proyecto es una aplicación de consola para jugar al Blackjack, desarrollad
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * **C++**: Lenguaje de programación principal del juego.
 * **Structs**: Se usaron para crear estructuras de datos para `Cartas`, `Jugador` y `DatosPartida`, lo que permite una gestión eficiente de la información del juego.
@@ -13,7 +13,7 @@ Este proyecto es una aplicación de consola para jugar al Blackjack, desarrollad
 
 ---
 
-## ✨ Características
+## Características
 
 * **Perfiles de jugador**: Los jugadores pueden crear un perfil con un nombre de usuario único. El juego rastrea sus victorias, derrotas y un contador especial para las victorias con Blackjack.
 * **Datos persistentes**: Toda la información del jugador se guarda en un archivo (`jugadores.txt`), por lo que el progreso no se pierde al cerrar el juego.
@@ -26,7 +26,7 @@ Este proyecto es una aplicación de consola para jugar al Blackjack, desarrollad
 
 ---
 
-## 🚀 Guía de inicio
+## Guía de inicio
 
 Sigue estos sencillos pasos para tener una copia local del proyecto y ejecutarlo.
 
@@ -67,7 +67,7 @@ Sigue estos sencillos pasos para tener una copia local del proyecto y ejecutarlo
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Alberto Cano Moreno**
 
